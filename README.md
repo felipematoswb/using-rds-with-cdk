@@ -5,7 +5,7 @@ This is a blank project for TypeScript development with CDK.
 ## To execute this project
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[AWSCLi] (https://aws.amazon.com/pt/cli/), [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+[AWSCLi](https://aws.amazon.com/pt/cli/), [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
 
