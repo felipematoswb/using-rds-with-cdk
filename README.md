@@ -45,10 +45,13 @@ $ sudo yum install postgresql postgresql-server -y
 # Acesse Secret Manager e Retrive passwork
 # Conecte no banco
 $ psql -p 5432 -U postgres -h YOUR_DB_ENDPOINT
-
-
-
 ```
+
+## Useful links
+* https://constructs.dev/packages/@aws-cdk/aws-rds/v/1.134.0
+* https://constructs.dev/packages/@aws-cdk/aws-ec2/v/1.134.0
+* https://constructs.dev/packages/@aws-cdk/aws-iam/v/1.134.0
+
 
 ## Useful commands
 
